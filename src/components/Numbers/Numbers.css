@@ -1,0 +1,18 @@
+.lotto {
+    padding: 20px;
+    margin: 30px;
+}
+
+.number {
+    font-size: 30px;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    width: 36px;
+    height: 36px;
+    /*border: 2px solid black;*/
+    border-radius: 50%;
+    color: #FFFFFF;
+    background: #232323;
+    text-shadow: 0 0 5px #FFF, 0 0 10px #49FF18, 0 0 15px #49FF18, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18;
+}

@@ -1,0 +1,12 @@
+.btn {
+  height: 75px;
+  width: 250px;
+  font-size: 30px;
+  font-weight: bold;
+
+  border-radius: 10px;
+  box-shadow: 9px 10px 31px -10px rgba(0,0,0,0.75);
+  color: #FFFFFF;
+  background: none;
+  text-shadow: #FFF 0px 0px 5px, #FF2D95 0px 0px 10px, #FF2D95 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px;
+}
