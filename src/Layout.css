@@ -1,0 +1,24 @@
+ul {
+  list-style-type: none;
+    background: black;
+
+  margin: 0;
+  padding: 0;
+  width: 10%;
+  position: fixed;
+  overflow: auto;
+}
+
+li a {
+    font-size: 24px;
+    font-weight: bold;
+  display: block;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: darkviolet;
+  color: white;
+}
